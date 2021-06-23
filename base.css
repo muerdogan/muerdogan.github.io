@@ -1,0 +1,361 @@
+body {
+	font-family: Ubuntu Mono;
+	font-size: 14px;
+    color: #0066ff;
+    background-color: #ffffff;
+    margin-left: 17%;
+	margin-right: 17%;
+	margin-top: -10px;
+	margin-bottom: 0px;
+}
+ul {
+	margin-left: -40px;
+}
+li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	list-style-type: none;
+}
+header {
+	font-family: Ubuntu Mono;
+	color: #ffffff;
+	background-color: #0066ff;
+	font-size: 5em;
+	font-weight: bold;
+padding-top: 5px;
+margin-top: 5px;
+	padding-bottom: 5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    text-align: left;
+padding-left: 5px;
+	letter-spacing: 0;
+}
+
+footer {
+
+    font-family: Ubuntu Mono;
+    color: #0066ff;
+    background-color: #ffffff;
+    font-size: 17px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+	font-weight: normal;
+font-style: italic;
+    text-align: left;
+    letter-spacing: 0px;
+	
+	}
+
+/* COMMENT */
+
+p {
+    line-height: 21px;
+}
+	
+	a.header-url {
+	font-family: Ubuntu Mono;
+	color: #ffffff;
+    background-color: #0066ff;
+	text-decoration: none;
+	padding-bottom: 5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+	font-weight: lighter;
+    text-align: left;
+    letter-spacing: 0;
+	}
+	
+	.header-url:hover { 
+	font-family: Ubuntu Mono;
+	color: #ff0000;
+    background-color: #0066ff;
+	padding-bottom: 5px;
+	margin-right: 10px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+	font-weight: lighter;
+    text-align: left;
+	letter-spacing: 0;
+	}
+
+h1 {
+	font-family: Ubuntu Mono;
+	color: #ffffff;
+    background-color: #0066ff;
+	font-size: 3em;
+padding-top: 5px;
+margin-top: 5px;
+	padding-bottom: 5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    text-align: left;
+padding-left: 5px;
+    letter-spacing: 0;
+}
+
+
+h2 {
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 2em;
+    margin-bottom: -10px;
+    padding-right: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+h3 {
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 1.25em;
+    margin-bottom: -10px;
+    padding-right: 0px;
+	padding-bottom: -10px;
+	padding-top: 0px;
+}
+
+img {
+    margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 30px;
+    border-style: none;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+img.main {
+    margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 30px;
+    border-style: none;
+    border-width: 2px;
+	border-color: #ccc;
+	align-content: left;
+}
+
+
+strong {
+    font-style: bold;
+    text-transform: bold;
+}
+
+	p.border {
+	
+	border-width: 4px;
+	margin-top:10px;
+	margin-bottom: 10px;
+	border-top-style:dashed;
+	border-bottom-style:doubled;
+
+	}
+	
+	p.border2 {
+	
+	border-width: 1px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	border-top-style:dashed;
+	border-bottom-style:doubled;
+
+	}
+	
+	p.border3 {
+	
+	border-width: 2px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	border-top-style:dashed;
+	border-bottom-style:doubled;
+	}
+	
+
+p.link1 {
+    color: #000000;
+	line-height: 10px;
+	font-size: 13px;
+	}
+	a.button_html {
+		color: #ffffff;
+		font-size: 17px;
+		padding-top: 15px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #ff0000;
+		text-decoration: none;
+		font-weight: none;
+		text-align: left;
+		letter-spacing: 0;
+	}
+	
+	.button_html:hover { 
+		color:#0066ff;
+		background-color:#FFFFFF;
+	}
+
+	a.button_css {
+		color: #ffffff;
+		font-size: 17px;
+		padding-top: 15px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #0066ff;
+		text-decoration: none;
+		font-weight: none;
+		text-align: left;
+		letter-spacing: 0;
+	}
+	
+	.button_css:hover { 
+		color:#0066ff;
+		background-color:#FFFFFF;
+	}
+	a.button_js {
+		color: #ffffff;
+		font-size: 17px;
+		padding-top: 15px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #ffcc00;
+		text-decoration: none;
+		font-weight: none;
+		text-align: left;
+		letter-spacing: 0;
+	}
+	
+	.button_js:hover { 
+		color:#0066ff;
+		background-color:#FFFFFF;
+	}
+	
+
+	a.button_php {
+		color: #ffffff;
+		font-size: 17px;
+		padding-top: 15px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #0066ff;
+		text-decoration: none;
+		font-weight: none;
+		text-align: left;
+		letter-spacing: 0;
+	}
+	
+	.button_php:hover { 
+		color:#0066ff;
+		background-color:#FFFFFF;
+	}
+	a.button_sql {
+		color: #ffffff;
+		font-size: 17px;
+		padding-top: 15px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #8e44ad;
+		text-decoration: none;
+		font-weight: none;
+		text-align: left;
+		letter-spacing: 0;
+	}
+	
+	.button_sql:hover { 
+		color:#0066ff;
+		background-color:#FFFFFF;
+	}
+
+	a.button_pyt {
+		color: #ffffff;
+		font-size: 17px;
+		padding-top: 15px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #0066ff;
+		text-decoration: none;
+		font-weight: none;
+		text-align: left;
+		letter-spacing: 0;
+	}
+	
+	.button_pyt:hover { 
+		color:#0066ff;
+		background-color:#FFFFFF;
+	}
+	a.button_contact {
+		color: #ffffff;
+		font-size: 17px;
+		padding-top: 15px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #000000;
+		text-decoration: none;
+		font-weight: none;
+		text-align: left;
+		letter-spacing: 0;
+	}
+	
+	.button_contact:hover { 
+		color:#0066ff;
+		background-color:#FFFFFF;
+	}
+
+
+	.return:hover { 
+		color:#ffffff;
+		background-color:#000000;
+	}
+	
+
+	a.url3 {
+		color: #ffffff;
+		background-color: #000000;
+		margin-top: 30px;
+		margin-right: 5px;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		padding-left: 5px;
+		padding-right: 5px;
+		text-decoration: none;
+	}
+	
+	
+	.url3:hover { 
+		color:#000000;
+		background-color:#FFFFFF;
+	}
+	
+	a.visit {
+		color: #000000;
+		font-size: 15px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		padding-left: 0px;
+		padding-right: 0px;
+		background-color: #ffffff;
+		text-decoration: none;
+		font-weight: none;
+		text-align: left;
+		letter-spacing: 0;
+	}
+
+	/*media queries*/
+
+	@media(max-width: 768px){
+		header,
+		header nav,
+		header nav li,
+		img,
+		footer{
+			float: none;
+			text-align: left;
+			width: 100%;
+			margin: none;
+		}
+	}
